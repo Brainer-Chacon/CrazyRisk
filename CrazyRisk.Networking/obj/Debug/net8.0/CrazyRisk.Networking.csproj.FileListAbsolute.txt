@@ -1,0 +1,15 @@
+C:\Users\geral\OneDrive - Estudiantes ITCR\TEC\2025\II Semestre\Proyecto 1\CrazyRisk\CrazyRisk.Networking\bin\Debug\net8.0\CrazyRisk.Networking.deps.json
+C:\Users\geral\OneDrive - Estudiantes ITCR\TEC\2025\II Semestre\Proyecto 1\CrazyRisk\CrazyRisk.Networking\bin\Debug\net8.0\CrazyRisk.Networking.dll
+C:\Users\geral\OneDrive - Estudiantes ITCR\TEC\2025\II Semestre\Proyecto 1\CrazyRisk\CrazyRisk.Networking\bin\Debug\net8.0\CrazyRisk.Networking.pdb
+C:\Users\geral\OneDrive - Estudiantes ITCR\TEC\2025\II Semestre\Proyecto 1\CrazyRisk\CrazyRisk.Networking\bin\Debug\net8.0\CrazyRisk.Shared.dll
+C:\Users\geral\OneDrive - Estudiantes ITCR\TEC\2025\II Semestre\Proyecto 1\CrazyRisk\CrazyRisk.Networking\bin\Debug\net8.0\CrazyRisk.Shared.pdb
+C:\Users\geral\OneDrive - Estudiantes ITCR\TEC\2025\II Semestre\Proyecto 1\CrazyRisk\CrazyRisk.Networking\obj\Debug\net8.0\CrazyRisk.Networking.csproj.AssemblyReference.cache
+C:\Users\geral\OneDrive - Estudiantes ITCR\TEC\2025\II Semestre\Proyecto 1\CrazyRisk\CrazyRisk.Networking\obj\Debug\net8.0\CrazyRisk.Networking.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\geral\OneDrive - Estudiantes ITCR\TEC\2025\II Semestre\Proyecto 1\CrazyRisk\CrazyRisk.Networking\obj\Debug\net8.0\CrazyRisk.Networking.AssemblyInfoInputs.cache
+C:\Users\geral\OneDrive - Estudiantes ITCR\TEC\2025\II Semestre\Proyecto 1\CrazyRisk\CrazyRisk.Networking\obj\Debug\net8.0\CrazyRisk.Networking.AssemblyInfo.cs
+C:\Users\geral\OneDrive - Estudiantes ITCR\TEC\2025\II Semestre\Proyecto 1\CrazyRisk\CrazyRisk.Networking\obj\Debug\net8.0\CrazyRisk.Networking.csproj.CoreCompileInputs.cache
+C:\Users\geral\OneDrive - Estudiantes ITCR\TEC\2025\II Semestre\Proyecto 1\CrazyRisk\CrazyRisk.Networking\obj\Debug\net8.0\CrazyRis.733787D3.Up2Date
+C:\Users\geral\OneDrive - Estudiantes ITCR\TEC\2025\II Semestre\Proyecto 1\CrazyRisk\CrazyRisk.Networking\obj\Debug\net8.0\CrazyRisk.Networking.dll
+C:\Users\geral\OneDrive - Estudiantes ITCR\TEC\2025\II Semestre\Proyecto 1\CrazyRisk\CrazyRisk.Networking\obj\Debug\net8.0\refint\CrazyRisk.Networking.dll
+C:\Users\geral\OneDrive - Estudiantes ITCR\TEC\2025\II Semestre\Proyecto 1\CrazyRisk\CrazyRisk.Networking\obj\Debug\net8.0\CrazyRisk.Networking.pdb
+C:\Users\geral\OneDrive - Estudiantes ITCR\TEC\2025\II Semestre\Proyecto 1\CrazyRisk\CrazyRisk.Networking\obj\Debug\net8.0\ref\CrazyRisk.Networking.dll

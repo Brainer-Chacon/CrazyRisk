@@ -1,0 +1,73 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "CrazyRisk.ConsoleUI/1.0.0": {
+        "dependencies": {
+          "CrazyRisk.Core": "1.0.0",
+          "CrazyRisk.Networking": "1.0.0",
+          "CrazyRisk.Shared": "1.0.0"
+        },
+        "runtime": {
+          "CrazyRisk.ConsoleUI.dll": {}
+        }
+      },
+      "CrazyRisk.Core/1.0.0": {
+        "dependencies": {
+          "CrazyRisk.Shared": "1.0.0"
+        },
+        "runtime": {
+          "CrazyRisk.Core.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "CrazyRisk.Networking/1.0.0": {
+        "dependencies": {
+          "CrazyRisk.Shared": "1.0.0"
+        },
+        "runtime": {
+          "CrazyRisk.Networking.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "CrazyRisk.Shared/1.0.0": {
+        "runtime": {
+          "CrazyRisk.Shared.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CrazyRisk.ConsoleUI/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CrazyRisk.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CrazyRisk.Networking/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CrazyRisk.Shared/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

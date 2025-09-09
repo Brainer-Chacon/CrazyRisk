@@ -1,0 +1,15 @@
+C:\Users\geral\OneDrive - Estudiantes ITCR\TEC\2025\II Semestre\Proyecto 1\CrazyRisk\CrazyRisk.Core\bin\Debug\net8.0\CrazyRisk.Core.deps.json
+C:\Users\geral\OneDrive - Estudiantes ITCR\TEC\2025\II Semestre\Proyecto 1\CrazyRisk\CrazyRisk.Core\bin\Debug\net8.0\CrazyRisk.Core.dll
+C:\Users\geral\OneDrive - Estudiantes ITCR\TEC\2025\II Semestre\Proyecto 1\CrazyRisk\CrazyRisk.Core\bin\Debug\net8.0\CrazyRisk.Core.pdb
+C:\Users\geral\OneDrive - Estudiantes ITCR\TEC\2025\II Semestre\Proyecto 1\CrazyRisk\CrazyRisk.Core\bin\Debug\net8.0\CrazyRisk.Shared.dll
+C:\Users\geral\OneDrive - Estudiantes ITCR\TEC\2025\II Semestre\Proyecto 1\CrazyRisk\CrazyRisk.Core\bin\Debug\net8.0\CrazyRisk.Shared.pdb
+C:\Users\geral\OneDrive - Estudiantes ITCR\TEC\2025\II Semestre\Proyecto 1\CrazyRisk\CrazyRisk.Core\obj\Debug\net8.0\CrazyRisk.Core.csproj.AssemblyReference.cache
+C:\Users\geral\OneDrive - Estudiantes ITCR\TEC\2025\II Semestre\Proyecto 1\CrazyRisk\CrazyRisk.Core\obj\Debug\net8.0\CrazyRisk.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\geral\OneDrive - Estudiantes ITCR\TEC\2025\II Semestre\Proyecto 1\CrazyRisk\CrazyRisk.Core\obj\Debug\net8.0\CrazyRisk.Core.AssemblyInfoInputs.cache
+C:\Users\geral\OneDrive - Estudiantes ITCR\TEC\2025\II Semestre\Proyecto 1\CrazyRisk\CrazyRisk.Core\obj\Debug\net8.0\CrazyRisk.Core.AssemblyInfo.cs
+C:\Users\geral\OneDrive - Estudiantes ITCR\TEC\2025\II Semestre\Proyecto 1\CrazyRisk\CrazyRisk.Core\obj\Debug\net8.0\CrazyRisk.Core.csproj.CoreCompileInputs.cache
+C:\Users\geral\OneDrive - Estudiantes ITCR\TEC\2025\II Semestre\Proyecto 1\CrazyRisk\CrazyRisk.Core\obj\Debug\net8.0\CrazyRis.F3C4422C.Up2Date
+C:\Users\geral\OneDrive - Estudiantes ITCR\TEC\2025\II Semestre\Proyecto 1\CrazyRisk\CrazyRisk.Core\obj\Debug\net8.0\CrazyRisk.Core.dll
+C:\Users\geral\OneDrive - Estudiantes ITCR\TEC\2025\II Semestre\Proyecto 1\CrazyRisk\CrazyRisk.Core\obj\Debug\net8.0\refint\CrazyRisk.Core.dll
+C:\Users\geral\OneDrive - Estudiantes ITCR\TEC\2025\II Semestre\Proyecto 1\CrazyRisk\CrazyRisk.Core\obj\Debug\net8.0\CrazyRisk.Core.pdb
+C:\Users\geral\OneDrive - Estudiantes ITCR\TEC\2025\II Semestre\Proyecto 1\CrazyRisk\CrazyRisk.Core\obj\Debug\net8.0\ref\CrazyRisk.Core.dll
