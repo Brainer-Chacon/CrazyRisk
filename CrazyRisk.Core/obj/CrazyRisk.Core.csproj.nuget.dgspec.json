@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\geral\\OneDrive - Estudiantes ITCR\\TEC\\2025\\II Semestre\\Proyecto 1\\CrazyRisk\\CrazyRisk.Core\\CrazyRisk.Core.csproj": {}
+    "C:\\Users\\geral\\OneDrive - Estudiantes ITCR\\TEC\\2025\\II Semestre\\Proyecto 1\\Git\\Digital-Risk\\CrazyRisk.Core\\CrazyRisk.Core.csproj": {}
   },
   "projects": {
-    "C:\\Users\\geral\\OneDrive - Estudiantes ITCR\\TEC\\2025\\II Semestre\\Proyecto 1\\CrazyRisk\\CrazyRisk.Core\\CrazyRisk.Core.csproj": {
+    "C:\\Users\\geral\\OneDrive - Estudiantes ITCR\\TEC\\2025\\II Semestre\\Proyecto 1\\Git\\Digital-Risk\\CrazyRisk.Core\\CrazyRisk.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\geral\\OneDrive - Estudiantes ITCR\\TEC\\2025\\II Semestre\\Proyecto 1\\CrazyRisk\\CrazyRisk.Core\\CrazyRisk.Core.csproj",
+        "projectUniqueName": "C:\\Users\\geral\\OneDrive - Estudiantes ITCR\\TEC\\2025\\II Semestre\\Proyecto 1\\Git\\Digital-Risk\\CrazyRisk.Core\\CrazyRisk.Core.csproj",
         "projectName": "CrazyRisk.Core",
-        "projectPath": "C:\\Users\\geral\\OneDrive - Estudiantes ITCR\\TEC\\2025\\II Semestre\\Proyecto 1\\CrazyRisk\\CrazyRisk.Core\\CrazyRisk.Core.csproj",
+        "projectPath": "C:\\Users\\geral\\OneDrive - Estudiantes ITCR\\TEC\\2025\\II Semestre\\Proyecto 1\\Git\\Digital-Risk\\CrazyRisk.Core\\CrazyRisk.Core.csproj",
         "packagesPath": "C:\\Users\\geral\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\geral\\OneDrive - Estudiantes ITCR\\TEC\\2025\\II Semestre\\Proyecto 1\\CrazyRisk\\CrazyRisk.Core\\obj\\",
+        "outputPath": "C:\\Users\\geral\\OneDrive - Estudiantes ITCR\\TEC\\2025\\II Semestre\\Proyecto 1\\Git\\Digital-Risk\\CrazyRisk.Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\geral\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -26,8 +26,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\geral\\OneDrive - Estudiantes ITCR\\TEC\\2025\\II Semestre\\Proyecto 1\\CrazyRisk\\CrazyRisk.Shared\\CrazyRisk.Shared.csproj": {
-                "projectPath": "C:\\Users\\geral\\OneDrive - Estudiantes ITCR\\TEC\\2025\\II Semestre\\Proyecto 1\\CrazyRisk\\CrazyRisk.Shared\\CrazyRisk.Shared.csproj"
+              "C:\\Users\\geral\\OneDrive - Estudiantes ITCR\\TEC\\2025\\II Semestre\\Proyecto 1\\Git\\Digital-Risk\\CrazyRisk.Shared\\CrazyRisk.Shared.csproj": {
+                "projectPath": "C:\\Users\\geral\\OneDrive - Estudiantes ITCR\\TEC\\2025\\II Semestre\\Proyecto 1\\Git\\Digital-Risk\\CrazyRisk.Shared\\CrazyRisk.Shared.csproj"
               }
             }
           }
@@ -66,14 +66,14 @@
         }
       }
     },
-    "C:\\Users\\geral\\OneDrive - Estudiantes ITCR\\TEC\\2025\\II Semestre\\Proyecto 1\\CrazyRisk\\CrazyRisk.Shared\\CrazyRisk.Shared.csproj": {
+    "C:\\Users\\geral\\OneDrive - Estudiantes ITCR\\TEC\\2025\\II Semestre\\Proyecto 1\\Git\\Digital-Risk\\CrazyRisk.Shared\\CrazyRisk.Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\geral\\OneDrive - Estudiantes ITCR\\TEC\\2025\\II Semestre\\Proyecto 1\\CrazyRisk\\CrazyRisk.Shared\\CrazyRisk.Shared.csproj",
+        "projectUniqueName": "C:\\Users\\geral\\OneDrive - Estudiantes ITCR\\TEC\\2025\\II Semestre\\Proyecto 1\\Git\\Digital-Risk\\CrazyRisk.Shared\\CrazyRisk.Shared.csproj",
         "projectName": "CrazyRisk.Shared",
-        "projectPath": "C:\\Users\\geral\\OneDrive - Estudiantes ITCR\\TEC\\2025\\II Semestre\\Proyecto 1\\CrazyRisk\\CrazyRisk.Shared\\CrazyRisk.Shared.csproj",
+        "projectPath": "C:\\Users\\geral\\OneDrive - Estudiantes ITCR\\TEC\\2025\\II Semestre\\Proyecto 1\\Git\\Digital-Risk\\CrazyRisk.Shared\\CrazyRisk.Shared.csproj",
         "packagesPath": "C:\\Users\\geral\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\geral\\OneDrive - Estudiantes ITCR\\TEC\\2025\\II Semestre\\Proyecto 1\\CrazyRisk\\CrazyRisk.Shared\\obj\\",
+        "outputPath": "C:\\Users\\geral\\OneDrive - Estudiantes ITCR\\TEC\\2025\\II Semestre\\Proyecto 1\\Git\\Digital-Risk\\CrazyRisk.Shared\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\geral\\AppData\\Roaming\\NuGet\\NuGet.Config"

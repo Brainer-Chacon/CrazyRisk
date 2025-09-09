@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CrazyRisk.Core")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ffe9dabdb67d4e8920844d10079b912838cf2c38")]
 [assembly: System.Reflection.AssemblyProductAttribute("CrazyRisk.Core")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CrazyRisk.Core")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
