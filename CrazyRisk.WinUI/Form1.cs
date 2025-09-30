@@ -9,7 +9,7 @@ namespace CrazyRisk.WinUI
 {
     public partial class Form1 : Form
     {
-        private Juego juego;
+        private Juego juego;   
         private int turnoActual = 0;
         private Button territorioSeleccionado = null;
 
