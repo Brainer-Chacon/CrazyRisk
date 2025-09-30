@@ -51,11 +51,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\geral\\OneDrive - Estudiantes ITCR\\TEC\\2025\\II Semestre\\Proyecto 1\\Git\\Digital-Risk\\CrazyRisk.WinUI\\CrazyRisk.WinUI.csproj",
+      "projectUniqueName": "C:\\Users\\geral\\OneDrive - Estudiantes ITCR\\TEC\\2025\\II Semestre\\CrazyRisk\\CrazyRisk-1\\CrazyRisk.WinUI\\CrazyRisk.WinUI.csproj",
       "projectName": "CrazyRisk.WinUI",
-      "projectPath": "C:\\Users\\geral\\OneDrive - Estudiantes ITCR\\TEC\\2025\\II Semestre\\Proyecto 1\\Git\\Digital-Risk\\CrazyRisk.WinUI\\CrazyRisk.WinUI.csproj",
+      "projectPath": "C:\\Users\\geral\\OneDrive - Estudiantes ITCR\\TEC\\2025\\II Semestre\\CrazyRisk\\CrazyRisk-1\\CrazyRisk.WinUI\\CrazyRisk.WinUI.csproj",
       "packagesPath": "C:\\Users\\geral\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\geral\\OneDrive - Estudiantes ITCR\\TEC\\2025\\II Semestre\\Proyecto 1\\Git\\Digital-Risk\\CrazyRisk.WinUI\\obj\\",
+      "outputPath": "C:\\Users\\geral\\OneDrive - Estudiantes ITCR\\TEC\\2025\\II Semestre\\CrazyRisk\\CrazyRisk-1\\CrazyRisk.WinUI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\geral\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -70,11 +70,11 @@
         "net8.0-windows7.0": {
           "targetAlias": "net8.0-windows",
           "projectReferences": {
-            "C:\\Users\\geral\\OneDrive - Estudiantes ITCR\\TEC\\2025\\II Semestre\\Proyecto 1\\Git\\Digital-Risk\\CrazyRisk.Core\\CrazyRisk.Core.csproj": {
-              "projectPath": "C:\\Users\\geral\\OneDrive - Estudiantes ITCR\\TEC\\2025\\II Semestre\\Proyecto 1\\Git\\Digital-Risk\\CrazyRisk.Core\\CrazyRisk.Core.csproj"
+            "C:\\Users\\geral\\OneDrive - Estudiantes ITCR\\TEC\\2025\\II Semestre\\CrazyRisk\\CrazyRisk-1\\CrazyRisk.Core\\CrazyRisk.Core.csproj": {
+              "projectPath": "C:\\Users\\geral\\OneDrive - Estudiantes ITCR\\TEC\\2025\\II Semestre\\CrazyRisk\\CrazyRisk-1\\CrazyRisk.Core\\CrazyRisk.Core.csproj"
             },
-            "C:\\Users\\geral\\OneDrive - Estudiantes ITCR\\TEC\\2025\\II Semestre\\Proyecto 1\\Git\\Digital-Risk\\CrazyRisk.Shared\\CrazyRisk.Shared.csproj": {
-              "projectPath": "C:\\Users\\geral\\OneDrive - Estudiantes ITCR\\TEC\\2025\\II Semestre\\Proyecto 1\\Git\\Digital-Risk\\CrazyRisk.Shared\\CrazyRisk.Shared.csproj"
+            "C:\\Users\\geral\\OneDrive - Estudiantes ITCR\\TEC\\2025\\II Semestre\\CrazyRisk\\CrazyRisk-1\\CrazyRisk.Shared\\CrazyRisk.Shared.csproj": {
+              "projectPath": "C:\\Users\\geral\\OneDrive - Estudiantes ITCR\\TEC\\2025\\II Semestre\\CrazyRisk\\CrazyRisk-1\\CrazyRisk.Shared\\CrazyRisk.Shared.csproj"
             }
           }
         }
